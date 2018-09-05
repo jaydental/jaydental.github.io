@@ -7,7 +7,7 @@ body {
   background: #faac58 none repeat scroll 0% 50%;
   margin-right: auto;
   margin-left: auto;
-  width: 805px;
+  width: 760px;
   height: 100%;
 }#picture {
   background: url(logo.jpg) no-repeat scroll 0% 50%;
@@ -17,13 +17,13 @@ body {
   margin-left: auto;
 }#top {
   background-color: #61380b;
-  width: 805px;
+  width: 760px;
   height: 25px;
   margin-right: auto;
   margin-left: auto;
 }#bottom {
   background-color: #61380b;
-  width: 800=0px;
+  width: 760px;
   height: 25px;
   margin-right: auto;
   margin-left: auto;
@@ -81,16 +81,19 @@ body {
   background-image: url(jaycard.bmp);
   background-position:  center center;
 }#rightbar {
-  margin: 0px -175px 0px 0px;
+  margin: 0px -130px 0px 0px;
   padding: 0px;
   background-color: #61380b;
   float: right;
-  width: 175px;
+  width: 130px;
   height: 100%;
+  background-repeat: no-repeat;
+  background-position:  center center;
+  background-image: url(cartoon-toothpaste-toothbrush-thumb2887476.jpg);
 }
 #rightbar a:visited {
   display: block;
-  width: 180px;
+  width: 185px;
   height: 32px;
   text-decoration: none;
   text-align: left;
